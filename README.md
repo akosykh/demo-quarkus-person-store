@@ -1,6 +1,6 @@
 # demo-quarkus-person-store Project
 
-see [TASK.md](TASK.MD)
+see [TASK.md](TASK.md)
 see [NOTES.md](NOTES.md)
 
 
